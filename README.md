@@ -4,7 +4,17 @@ Welcome to my **ApexPlanet Data Analytics Internship Portfolio**.
 
 This repository serves as the central portfolio showcasing all projects completed during my **Data Analytics Internship at ApexPlanet Software Pvt. Ltd.**
 
-Throughout this internship, I transformed raw sales data into actionable business insights using **Python, SQL, Tableau Public, and Statistical Analysis**. Each task built upon the previous one, resulting in a complete end-to-end data analytics workflow—from data preparation and exploratory analysis to customer segmentation, data storytelling, and statistical validation.
+Throughout this internship, I transformed raw sales data into actionable business insights using **Python, SQL, Tableau Public, and Statistical Analysis**. Each task built upon the previous one, resulting in a complete end-to-end data analytics workflow—from **data cleaning and preparation** to **exploratory analysis, customer segmentation, statistical validation, business storytelling, and interactive dashboard development**.
+
+---
+
+# 📊 Portfolio Preview
+
+The image below shows the homepage of this internship portfolio.
+
+<p align="center">
+  <img src="portfolio_preview.png" alt="ApexPlanet Data Analytics Internship Portfolio" width="1000">
+</p>
 
 ---
 
@@ -16,11 +26,9 @@ Throughout this internship, I transformed raw sales data into actionable busines
 
 **Indian Institute of Information Technology (IIIT) Kottayam**
 
-🔗 **GitHub:** https://github.com/alokkumar-dotcom
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
-
-📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178
+- 🔗 **GitHub:** https://github.com/alokkumar-dotcom
+- 💼 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
+- 📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178/
 
 ---
 
@@ -30,6 +38,7 @@ Throughout this internship, I transformed raw sales data into actionable busines
 alokkumar-DataAnalyst-Internship-Portfolio/
 
 ├── README.md
+├── portfolio_preview.png
 └── presentation/
     └── final_presentation.pdf
 ```
@@ -40,10 +49,10 @@ alokkumar-DataAnalyst-Internship-Portfolio/
 
 | Task | Project | Repository |
 |------|---------|------------|
-| **Task 1** | Data Cleaning & Preparation | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1 |
-| **Task 2** | Exploratory Data Analysis (EDA), SQL & Tableau Dashboard | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2 |
-| **Task 3** | Customer Segmentation & Interactive Tableau Dashboard | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3 |
-| **Task 4** | Data Storytelling & Statistical Validation | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4 |
+| **Task 1** | Data Cleaning & Preparation | [ApexPlanet-DataAnalytics-Task1](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1) |
+| **Task 2** | Exploratory Data Analysis (EDA), SQL & Tableau Dashboard | [ApexPlanet-DataAnalytics-Task2](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2) |
+| **Task 3** | Customer Segmentation & Interactive Tableau Dashboard | [ApexPlanet-DataAnalytics-Task3](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3) |
+| **Task 4** | Data Storytelling & Statistical Validation | [ApexPlanet-DataAnalytics-Task4](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4) |
 
 ---
 
@@ -115,9 +124,9 @@ Integrated the complete analytics workflow into a business-focused narrative and
 
 Explore all interactive dashboards created during the internship.
 
-📊 **Tableau Public Profile**
+🔗 **Tableau Public Profile**
 
-https://public.tableau.com/app/profile/alok.kumar3178
+https://public.tableau.com/app/profile/alok.kumar3178/
 
 ---
 
@@ -152,7 +161,7 @@ Throughout this internship, I gained hands-on experience in:
 
 # 📄 Final Presentation
 
-The complete internship presentation provides an overview of all four internship tasks, including:
+The final presentation summarizes the complete internship journey, including:
 
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
@@ -163,25 +172,17 @@ The complete internship presentation provides an overview of all four internship
 - Statistical Validation
 - Business Recommendations
 
-📄 **View Final Presentation**
+📄 **Presentation**
 
-[presentation/final_presentation.pdf](presentation/final_presentation.pdf)
+[Final Internship Presentation](presentation/final_presentation.pdf)
 
 ---
 
-# 📬 Contact
+# 🤝 Connect With Me
 
-**Alok Kumar**
-
-**B.Tech – Computer Science & Engineering**
-
-**Indian Institute of Information Technology (IIIT) Kottayam**
-
-🔗 **GitHub:** https://github.com/alokkumar-dotcom
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
-
-📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178
+- 🔗 **GitHub:** https://github.com/alokkumar-dotcom
+- 💼 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
+- 📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178/
 
 ---
 
@@ -189,14 +190,26 @@ The complete internship presentation provides an overview of all four internship
 
 Thank you for visiting my portfolio.
 
-I hope these projects demonstrate my knowledge of:
+I hope these projects demonstrate my knowledge and practical experience in:
 
 - Data Analytics
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL & Database Analysis
+- Tableau Dashboard Development
 - Business Intelligence
-- Data Visualization
-- Customer Analytics
+- Customer Segmentation
 - Statistical Analysis
+- Data Storytelling
 
-Feel free to explore the project repositories, review the documentation, and connect with me on **GitHub**, **LinkedIn**, or **Tableau Public**.
+If you found this portfolio useful, feel free to:
 
-If you found this portfolio useful, consider starring the repositories and sharing your feedback.
+⭐ Star the repositories
+
+📂 Explore each internship project
+
+💼 Connect with me on LinkedIn
+
+📊 Explore my Tableau Public dashboards
+
+Thank you for your time and feedback!
