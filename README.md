@@ -1,16 +1,10 @@
 # 📊 ApexPlanet Data Analytics Internship Portfolio
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/alokkumar-dotcom)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)](https://www.mysql.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/alok.kumar3178)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 Welcome to my **ApexPlanet Data Analytics Internship Portfolio**.
 
 This repository serves as the central portfolio showcasing all projects completed during my **Data Analytics Internship at ApexPlanet Software Pvt. Ltd.**
 
-Throughout this internship, I worked on transforming raw sales data into actionable business insights using **Python, SQL, Tableau Public, and Statistical Analysis**. Each task built upon the previous one, resulting in a complete end-to-end data analytics workflow—from data preparation and exploratory analysis to customer segmentation, data storytelling, and statistical validation.
+Throughout this internship, I transformed raw sales data into actionable business insights using **Python, SQL, Tableau Public, and Statistical Analysis**. Each task built upon the previous one, resulting in a complete end-to-end data analytics workflow—from data preparation and exploratory analysis to customer segmentation, data storytelling, and statistical validation.
 
 ---
 
@@ -30,24 +24,41 @@ Throughout this internship, I worked on transforming raw sales data into actiona
 
 ---
 
-# 📁 Internship Projects
+# 📁 Portfolio Structure
 
-| Task | Project | Repository |
-|------|---------|------------|
-| **Task 1** | Data Cleaning & Preparation | [ApexPlanet-DataAnalytics-Task1](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1) |
-| **Task 2** | Exploratory Data Analysis (EDA), SQL & Tableau Dashboard | [ApexPlanet-DataAnalytics-Task2](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2) |
-| **Task 3** | Customer Segmentation & Interactive Tableau Dashboard | [ApexPlanet-DataAnalytics-Task3](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3) |
-| **Task 4** | Data Storytelling & Statistical Validation | [ApexPlanet-DataAnalytics-Task4](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4) |
+```text
+alokkumar-DataAnalyst-Internship-Portfolio/
+
+├── README.md
+└── presentation/
+    └── final_presentation.pdf
+```
 
 ---
 
-# 🚀 Project Highlights
+# 🚀 Internship Projects
+
+| Task | Project | Repository |
+|------|---------|------------|
+| **Task 1** | Data Cleaning & Preparation | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1 |
+| **Task 2** | Exploratory Data Analysis (EDA), SQL & Tableau Dashboard | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2 |
+| **Task 3** | Customer Segmentation & Interactive Tableau Dashboard | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3 |
+| **Task 4** | Data Storytelling & Statistical Validation | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4 |
+
+---
+
+# 📌 Project Highlights
 
 ## 📌 Task 1 – Data Cleaning & Preparation
 
-Prepared raw sales data for analysis by handling missing values, removing duplicate records, validating data quality, and performing feature engineering.
+Prepared raw sales data for analysis by:
 
-**Key Skills**
+- Handling missing values
+- Removing duplicate records
+- Validating data quality
+- Performing feature engineering
+
+### Key Skills
 
 - Python
 - Pandas
@@ -61,7 +72,7 @@ Prepared raw sales data for analysis by handling missing values, removing duplic
 
 Performed Exploratory Data Analysis (EDA), answered business questions using SQL, and developed an interactive Tableau dashboard to visualize key business metrics.
 
-**Key Skills**
+### Key Skills
 
 - Exploratory Data Analysis (EDA)
 - SQL & MySQL
@@ -75,7 +86,7 @@ Performed Exploratory Data Analysis (EDA), answered business questions using SQL
 
 Performed customer segmentation using purchasing behavior, generated business insights, and developed an interactive Tableau dashboard to support customer analysis and business decision-making.
 
-**Key Skills**
+### Key Skills
 
 - Customer Segmentation
 - KPI Development
@@ -89,7 +100,7 @@ Performed customer segmentation using purchasing behavior, generated business in
 
 Integrated the complete analytics workflow into a business-focused narrative and validated customer spending differences using **Welch's Independent Samples t-test**.
 
-**Key Skills**
+### Key Skills
 
 - Data Storytelling
 - Statistical Testing
@@ -102,9 +113,9 @@ Integrated the complete analytics workflow into a business-focused narrative and
 
 # 📊 Tableau Public
 
-Explore all my interactive dashboards created during the internship.
+Explore all interactive dashboards created during the internship.
 
-🔗 **Tableau Public Profile**
+📊 **Tableau Public Profile**
 
 https://public.tableau.com/app/profile/alok.kumar3178
 
@@ -113,13 +124,13 @@ https://public.tableau.com/app/profile/alok.kumar3178
 # 🛠️ Technologies & Tools
 
 | Category | Technologies |
-|-----------|--------------|
-| Programming | Python |
-| Libraries | Pandas, Matplotlib, SciPy |
-| Database | SQL, MySQL |
-| Data Visualization | Tableau Public |
-| Version Control | Git, GitHub |
-| Development Environment | Visual Studio Code |
+|----------|--------------|
+| **Programming** | Python |
+| **Libraries** | Pandas, Matplotlib, SciPy |
+| **Database** | SQL, MySQL |
+| **Data Visualization** | Tableau Public |
+| **Version Control** | Git, GitHub |
+| **Development Environment** | Visual Studio Code |
 
 ---
 
@@ -141,9 +152,20 @@ Throughout this internship, I gained hands-on experience in:
 
 # 📄 Final Presentation
 
-The complete internship presentation provides an overview of all four internship tasks, including project objectives, methodologies, business insights, statistical validation, and final recommendations.
+The final presentation summarizes the complete internship journey, including:
 
-📄 **[View Final Internship Presentation](presentation/final_presentation.pdf)**
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- SQL Analysis
+- Customer Segmentation
+- Tableau Dashboards
+- Data Storytelling
+- Statistical Validation
+- Business Recommendations
+
+📄 **Presentation**
+
+`presentation/final_presentation.pdf`
 
 ---
 
@@ -163,10 +185,16 @@ The complete internship presentation provides an overview of all four internship
 
 ---
 
-## ⭐ Thank You
+# ⭐ Thank You
 
 Thank you for visiting my portfolio.
 
-I hope these projects demonstrate my knowledge of **Data Analytics, Business Intelligence, Data Visualization, Customer Analytics, and Statistical Analysis**.
+I hope these projects demonstrate my knowledge of:
 
-Feel free to explore the project repositories, review the documentation, and connect with me on LinkedIn or Tableau Public.
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Customer Analytics
+- Statistical Analysis
+
+Feel free to explore the project repositories, review the documentation, and connect with me on **GitHub**, **LinkedIn**, or **Tableau Public**.
