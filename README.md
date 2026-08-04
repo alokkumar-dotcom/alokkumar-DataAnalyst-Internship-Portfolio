@@ -1,9 +1,9 @@
 # 📊 ApexPlanet Data Analytics Internship Portfolio
 
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
-![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/alokkumar-dotcom)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)](https://www.mysql.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/alok.kumar3178)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 Welcome to my **ApexPlanet Data Analytics Internship Portfolio**.
@@ -26,16 +26,18 @@ Throughout this internship, I worked on transforming raw sales data into actiona
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
 
+📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178
+
 ---
 
 # 📁 Internship Projects
 
 | Task | Project | Repository |
 |------|---------|------------|
-| **Task 1** | Data Cleaning & Preparation | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1 |
-| **Task 2** | Exploratory Data Analysis (EDA), SQL & Tableau Dashboard | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2 |
-| **Task 3** | Customer Segmentation & Interactive Tableau Dashboard | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3 |
-| **Task 4** | Data Storytelling & Statistical Validation | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4 |
+| **Task 1** | Data Cleaning & Preparation | [ApexPlanet-DataAnalytics-Task1](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1) |
+| **Task 2** | Exploratory Data Analysis (EDA), SQL & Tableau Dashboard | [ApexPlanet-DataAnalytics-Task2](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2) |
+| **Task 3** | Customer Segmentation & Interactive Tableau Dashboard | [ApexPlanet-DataAnalytics-Task3](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3) |
+| **Task 4** | Data Storytelling & Statistical Validation | [ApexPlanet-DataAnalytics-Task4](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4) |
 
 ---
 
@@ -98,6 +100,16 @@ Integrated the complete analytics workflow into a business-focused narrative and
 
 ---
 
+# 📊 Tableau Public
+
+Explore all my interactive dashboards created during the internship.
+
+🔗 **Tableau Public Profile**
+
+https://public.tableau.com/app/profile/alok.kumar3178
+
+---
+
 # 🛠️ Technologies & Tools
 
 | Category | Technologies |
@@ -129,9 +141,9 @@ Throughout this internship, I gained hands-on experience in:
 
 # 📄 Final Presentation
 
-The complete internship presentation provides an overview of all four internship tasks, including the project objectives, methodologies, business insights, statistical validation, and final recommendations.
+The complete internship presentation provides an overview of all four internship tasks, including project objectives, methodologies, business insights, statistical validation, and final recommendations.
 
-📄 **Presentation:** [Final Internship Presentation](presentation/final_presentation.pdf)
+📄 **[View Final Internship Presentation](presentation/final_presentation.pdf)**
 
 ---
 
@@ -147,6 +159,8 @@ The complete internship presentation provides an overview of all four internship
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
 
+📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178
+
 ---
 
 ## ⭐ Thank You
@@ -155,4 +169,4 @@ Thank you for visiting my portfolio.
 
 I hope these projects demonstrate my knowledge of **Data Analytics, Business Intelligence, Data Visualization, Customer Analytics, and Statistical Analysis**.
 
-Feel free to explore the project repositories, review the documentation, and connect with me on LinkedIn.
+Feel free to explore the project repositories, review the documentation, and connect with me on LinkedIn or Tableau Public.
