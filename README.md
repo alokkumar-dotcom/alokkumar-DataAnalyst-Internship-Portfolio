@@ -8,13 +8,11 @@ Throughout this internship, I transformed raw sales data into actionable busines
 
 ---
 
-# 📊 Portfolio Preview
+# 📷 Portfolio Preview
 
 The image below shows the homepage of this internship portfolio.
 
-<p align="center">
-  <img src="portfolio_preview.png" alt="ApexPlanet Data Analytics Internship Portfolio" width="1000">
-</p>
+![Portfolio Preview](portfolio_preview.png)
 
 ---
 
@@ -26,9 +24,11 @@ The image below shows the homepage of this internship portfolio.
 
 **Indian Institute of Information Technology (IIIT) Kottayam**
 
-- 🔗 **GitHub:** https://github.com/alokkumar-dotcom
-- 💼 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
-- 📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178/
+🔗 **GitHub:** https://github.com/alokkumar-dotcom
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
+
+📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178
 
 ---
 
@@ -49,10 +49,10 @@ alokkumar-DataAnalyst-Internship-Portfolio/
 
 | Task | Project | Repository |
 |------|---------|------------|
-| **Task 1** | Data Cleaning & Preparation | [ApexPlanet-DataAnalytics-Task1](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1) |
-| **Task 2** | Exploratory Data Analysis (EDA), SQL & Tableau Dashboard | [ApexPlanet-DataAnalytics-Task2](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2) |
-| **Task 3** | Customer Segmentation & Interactive Tableau Dashboard | [ApexPlanet-DataAnalytics-Task3](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3) |
-| **Task 4** | Data Storytelling & Statistical Validation | [ApexPlanet-DataAnalytics-Task4](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4) |
+| **Task 1** | Data Cleaning & Preparation | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1 |
+| **Task 2** | Exploratory Data Analysis (EDA), SQL & Tableau Dashboard | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2 |
+| **Task 3** | Customer Segmentation & Interactive Tableau Dashboard | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3 |
+| **Task 4** | Data Storytelling & Statistical Validation | https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4 |
 
 ---
 
@@ -107,7 +107,7 @@ Performed customer segmentation using purchasing behavior, generated business in
 
 ## 📌 Task 4 – Data Storytelling & Statistical Validation
 
-Integrated the complete analytics workflow into a business-focused narrative and validated customer spending differences using **Welch's Independent Samples t-test**.
+Integrated the complete analytics workflow into a business-focused narrative and validated customer spending differences using Welch's Independent Samples t-test.
 
 ### Key Skills
 
@@ -124,9 +124,9 @@ Integrated the complete analytics workflow into a business-focused narrative and
 
 Explore all interactive dashboards created during the internship.
 
-🔗 **Tableau Public Profile**
+### 🔗 Tableau Public Profile
 
-https://public.tableau.com/app/profile/alok.kumar3178/
+https://public.tableau.com/app/profile/alok.kumar3178
 
 ---
 
@@ -134,12 +134,12 @@ https://public.tableau.com/app/profile/alok.kumar3178/
 
 | Category | Technologies |
 |----------|--------------|
-| **Programming** | Python |
-| **Libraries** | Pandas, Matplotlib, SciPy |
-| **Database** | SQL, MySQL |
-| **Data Visualization** | Tableau Public |
-| **Version Control** | Git, GitHub |
-| **Development Environment** | Visual Studio Code |
+| Programming | Python |
+| Libraries | Pandas, Matplotlib, SciPy |
+| Database | SQL, MySQL |
+| Data Visualization | Tableau Public |
+| Version Control | Git, GitHub |
+| Development Environment | Visual Studio Code |
 
 ---
 
@@ -172,7 +172,7 @@ The final presentation summarizes the complete internship journey, including:
 - Statistical Validation
 - Business Recommendations
 
-📄 **Presentation**
+### 📄 Presentation
 
 [Final Internship Presentation](presentation/final_presentation.pdf)
 
@@ -180,9 +180,9 @@ The final presentation summarizes the complete internship journey, including:
 
 # 🤝 Connect With Me
 
-- 🔗 **GitHub:** https://github.com/alokkumar-dotcom
-- 💼 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
-- 📊 **Tableau Public:** https://public.tableau.com/app/profile/alok.kumar3178/
+- 🔗 GitHub: https://github.com/alokkumar-dotcom
+- 💼 LinkedIn: https://www.linkedin.com/in/alok-kumar-b19a2835b/
+- 📊 Tableau Public: https://public.tableau.com/app/profile/alok.kumar3178
 
 ---
 
@@ -206,10 +206,10 @@ If you found this portfolio useful, feel free to:
 
 ⭐ Star the repositories
 
-📂 Explore each internship project
+📂 Explore the internship projects
 
 💼 Connect with me on LinkedIn
 
-📊 Explore my Tableau Public dashboards
+📊 View my Tableau dashboards
 
-Thank you for your time and feedback!
+Your feedback and suggestions are always welcome.
