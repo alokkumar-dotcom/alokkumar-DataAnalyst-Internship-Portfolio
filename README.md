@@ -1,10 +1,16 @@
 # 📊 ApexPlanet Data Analytics Internship Portfolio
 
-Welcome to my Data Analytics Internship Portfolio!
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
+![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)
+![License](https://img.shields.io/badge/Status-Completed-success)
 
-This repository serves as the master portfolio showcasing all projects completed during my Data Analytics Internship at ApexPlanet Software Pvt. Ltd.
+Welcome to my **ApexPlanet Data Analytics Internship Portfolio**.
 
-Throughout this internship, I worked on transforming raw sales data into actionable business insights using Python, SQL, Tableau, and statistical analysis. Each task built upon the previous one, resulting in a complete end-to-end analytics project.
+This repository serves as the **master portfolio** showcasing all projects completed during my internship at **ApexPlanet Software Pvt. Ltd.**
+
+Throughout this internship, I transformed raw sales data into actionable business insights using **Python, SQL, Tableau, and Statistical Analysis**. Each task built upon the previous one, resulting in a complete end-to-end data analytics workflow—from data cleaning to business storytelling and statistical validation.
 
 ---
 
@@ -12,13 +18,13 @@ Throughout this internship, I worked on transforming raw sales data into actiona
 
 **Alok Kumar**
 
-B.Tech – Computer Science & Engineering
+**B.Tech – Computer Science & Engineering**
 
-Indian Institute of Information Technology (IIIT) Kottayam
+**Indian Institute of Information Technology (IIIT) Kottayam**
 
-🔗 GitHub: https://github.com/alokkumar-dotcom
+🔗 **GitHub:** https://github.com/alokkumar-dotcom
 
-🔗 LinkedIn: https://www.linkedin.com/in/alok-kumar-b19a2835b/
+🔗 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-b19a2835b/
 
 ---
 
@@ -26,16 +32,17 @@ Indian Institute of Information Technology (IIIT) Kottayam
 
 ## 📌 Task 1 – Data Cleaning & Preparation
 
-Focused on preparing raw sales data for analysis by handling missing values, removing duplicates, validating data quality, and performing feature engineering.
+Prepared raw sales data for analysis by handling missing values, removing duplicates, validating data quality, and performing feature engineering.
 
 ### Key Skills
+
 - Python
 - Pandas
 - Data Cleaning
 - Data Validation
 - Feature Engineering
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1
 
@@ -43,25 +50,25 @@ https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1
 
 ## 📌 Task 2 – Exploratory Data Analysis (EDA), SQL & Tableau Dashboard
 
-Performed Exploratory Data Analysis (EDA), solved business problems using SQL, and created an interactive Tableau dashboard to visualize key business metrics.
+Performed Exploratory Data Analysis (EDA), answered business questions using SQL, and developed an interactive Tableau dashboard to visualize key business metrics.
 
 ### Key Skills
 
 - Exploratory Data Analysis (EDA)
-- SQL
-- Tableau
+- SQL & MySQL
+- Tableau Public
 - Data Visualization
 - Business Analytics
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2
 
 ---
 
-## 📌 Task 3 – Customer Segmentation & Interactive Dashboard
+## 📌 Task 3 – Customer Segmentation & Interactive Tableau Dashboard
 
-Analyzed customer purchasing behavior, created customer segments, generated business insights, and developed an interactive Tableau dashboard.
+Performed customer segmentation using purchasing behavior, generated business insights, and built an interactive Tableau dashboard for customer analysis.
 
 ### Key Skills
 
@@ -71,7 +78,7 @@ Analyzed customer purchasing behavior, created customer segments, generated busi
 - Business Intelligence
 - Data Storytelling
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3
 
@@ -79,7 +86,7 @@ https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3
 
 ## 📌 Task 4 – Data Storytelling & Statistical Validation
 
-Combined the work from previous tasks into a complete business story and validated key findings using hypothesis testing (Welch's Independent Samples t-test).
+Combined the complete analytics workflow into a business story and validated customer spending differences using **Welch's Independent Samples t-test**.
 
 ### Key Skills
 
@@ -90,7 +97,7 @@ Combined the work from previous tasks into a complete business story and validat
 - Business Recommendations
 - Presentation Design
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4
 
@@ -98,16 +105,14 @@ https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4
 
 # 🛠️ Technologies & Tools
 
-- Python
-- Pandas
-- Matplotlib
-- SQL
-- MySQL
-- Tableau Public
-- SciPy
-- Git
-- GitHub
-- Visual Studio Code
+| Category | Technologies |
+|-----------|--------------|
+| Programming | Python |
+| Libraries | Pandas, Matplotlib, SciPy |
+| Database | SQL, MySQL |
+| Data Visualization | Tableau Public |
+| Version Control | Git, GitHub |
+| Development Environment | Visual Studio Code |
 
 ---
 
@@ -115,23 +120,25 @@ https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4
 
 Throughout this internship, I learned how to:
 
-- Clean and prepare real-world datasets.
+- Clean and prepare real-world datasets for analysis.
 - Perform Exploratory Data Analysis (EDA).
-- Write SQL queries to answer business questions.
+- Write SQL queries to solve business problems.
 - Build interactive Tableau dashboards.
-- Segment customers based on purchasing behavior.
-- Generate business insights from data.
-- Validate findings using statistical hypothesis testing.
-- Present technical results through professional reports and presentations.
-- Organize projects using Git and GitHub.
+- Perform customer segmentation using purchasing behavior.
+- Generate actionable business insights.
+- Validate business findings using statistical hypothesis testing.
+- Present technical findings through reports and presentations.
+- Organize and manage projects using Git and GitHub.
 
 ---
 
 # 📄 Final Presentation
 
-The complete internship presentation is available in the **presentation/** folder.
+The complete internship presentation is available below.
 
-It summarizes the entire analytics workflow from data cleaning to statistical validation and business recommendations.
+📑 **[Final Internship Presentation](presentation/final_presentation.pdf)**
+
+The presentation summarizes the complete analytics workflow from **Data Cleaning** to **Statistical Validation** and **Business Recommendations**.
 
 ---
 
@@ -139,16 +146,16 @@ It summarizes the entire analytics workflow from data cleaning to statistical va
 
 **Alok Kumar**
 
-B.Tech – Computer Science & Engineering
+**B.Tech – Computer Science & Engineering**
 
-IIIT Kottayam
+**Indian Institute of Information Technology (IIIT) Kottayam**
 
-GitHub:
-https://github.com/alokkumar-dotcom
+🔗 GitHub: https://github.com/alokkumar-dotcom
 
-LinkedIn:
-https://www.linkedin.com/in/alok-kumar-b19a2835b/
+🔗 LinkedIn: https://www.linkedin.com/in/alok-kumar-b19a2835b/
 
 ---
 
-⭐ Thank you for visiting my portfolio! Feel free to explore the repositories and share your feedback.
+⭐ **Thank you for visiting my portfolio!**
+
+If you found these projects useful, feel free to explore the repositories and share your feedback.
