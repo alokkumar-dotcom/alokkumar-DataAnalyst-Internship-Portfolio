@@ -152,7 +152,7 @@ Throughout this internship, I gained hands-on experience in:
 
 # 📄 Final Presentation
 
-The final presentation summarizes the complete internship journey, including:
+The complete internship presentation provides an overview of all four internship tasks, including:
 
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
@@ -163,9 +163,9 @@ The final presentation summarizes the complete internship journey, including:
 - Statistical Validation
 - Business Recommendations
 
-📄 **Presentation**
+📄 **View Final Presentation**
 
-`presentation/final_presentation.pdf`
+[presentation/final_presentation.pdf](presentation/final_presentation.pdf)
 
 ---
 
@@ -198,3 +198,5 @@ I hope these projects demonstrate my knowledge of:
 - Statistical Analysis
 
 Feel free to explore the project repositories, review the documentation, and connect with me on **GitHub**, **LinkedIn**, or **Tableau Public**.
+
+If you found this portfolio useful, consider starring the repositories and sharing your feedback.
