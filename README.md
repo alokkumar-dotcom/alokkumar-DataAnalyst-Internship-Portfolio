@@ -69,6 +69,14 @@ alokkumar-DataAnalyst-Internship-Portfolio/
 
 The portfolio website presents the complete internship journey through a structured and responsive interface.
 
+### 🌐 Live Website
+
+[https://alokkumar-dotcom.github.io/alokkumar-DataAnalyst-Internship-Portfolio/](https://alokkumar-dotcom.github.io/alokkumar-DataAnalyst-Internship-Portfolio/)
+
+### Website Preview
+
+![Portfolio Website Preview](assets/images/task5.png)
+
 ### Website Sections
 
 - Home
