@@ -1,0 +1,871 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Portfolio of Alok Kumar showcasing Data Analytics projects, Python, SQL, Tableau, Excel, dashboards, data visualization, and internship experience."
+    />
+    <meta
+      name="keywords"
+      content="Alok Kumar, Data Analyst, Data Analytics Portfolio, Python, SQL, Tableau, Excel, Pandas, NumPy, Power BI, Business Intelligence, Data Visualization"
+    />
+    <meta name="author" content="Alok Kumar" />
+    <meta name="robots" content="index,follow" />
+    <meta name="theme-color" content="#388087" />
+    <title>Alok Kumar | Data Analytics Portfolio</title>
+    <meta property="og:title" content="Alok Kumar | Data Analytics Portfolio" />
+    <meta
+      property="og:description"
+      content="Portfolio showcasing Data Analytics projects, Python, SQL, Tableau dashboards, Excel, and internship work."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/images/preview.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Alok Kumar | Data Analytics Portfolio"
+    />
+    <meta
+      name="twitter:description"
+      content="Portfolio showcasing Data Analytics projects, dashboards, Python, SQL, and Tableau."
+    />
+    <meta name="twitter:image" content="assets/images/preview.png" />
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container">
+        <nav class="navbar" aria-label="Primary Navigation">
+          <button
+            id="menu-btn"
+            class="menu-btn"
+            type="button"
+            aria-label="Toggle navigation"
+            aria-expanded="false"
+            aria-controls="primary-navigation"
+          >
+            <i class="fa-solid fa-bars" aria-hidden="true"></i>
+          </button>
+          <a href="#home" class="logo" aria-label="Alok Kumar Portfolio"
+            ><span>AK</span><strong>Alok Kumar</strong></a
+          >
+          <ul class="nav-links" id="primary-navigation">
+            <li><a href="#home" class="nav-link active">Home</a></li>
+            <li><a href="#about" class="nav-link">About</a></li>
+            <li><a href="#skills" class="nav-link">Skills</a></li>
+            <li><a href="#timeline" class="nav-link">Journey</a></li>
+            <li><a href="#projects" class="nav-link">Projects</a></li>
+            <li><a href="#contact" class="nav-link">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section id="home" class="hero">
+        <div class="container hero-content">
+          <div class="hero-text">
+            <span class="hero-badge">Data Analytics Portfolio</span>
+            <h1>Hi, I'm <span>Alok Kumar</span></h1>
+            <h2 aria-live="polite"><span id="typing"></span></h2>
+            <p>
+              Computer Science student passionate about Data Analytics, Business
+              Intelligence, and data visualization. I build dashboards and
+              transform raw data into actionable insights using Python, SQL,
+              Excel, and Tableau.
+            </p>
+            <div class="hero-buttons">
+              <a href="#projects" class="btn btn-primary">View Projects</a>
+              <a
+                href="assets/pdf/final_presentation.pdf"
+                class="btn btn-outline"
+                target="_blank"
+                rel="noopener noreferrer"
+                >View Presentation</a
+              >
+            </div>
+            <div class="hero-stats">
+              <article class="stat-card">
+                <h3>5+</h3>
+                <span>Projects</span>
+              </article>
+              <article class="stat-card">
+                <h3>3</h3>
+                <span>Dashboards</span>
+              </article>
+              <article class="stat-card">
+                <h3>1K+</h3>
+                <span>Records Processed</span>
+              </article>
+            </div>
+            <div class="social-links">
+              <a
+                href="https://github.com/alokkumar-dotcom"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="GitHub"
+                ><i class="fa-brands fa-github" aria-hidden="true"></i
+              ></a>
+              <a
+                href="https://www.linkedin.com/in/alok-kumar-b19a2835b/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="LinkedIn"
+                ><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i
+              ></a>
+              <a
+                href="https://public.tableau.com/app/profile/alok.kumar3178"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Tableau Public"
+                ><i class="fa-solid fa-chart-column" aria-hidden="true"></i
+              ></a>
+            </div>
+          </div>
+          <div class="hero-image">
+            <img
+              id="heroSlider"
+              src="assets/images/task2.png"
+              alt="Interactive data analytics dashboard"
+              loading="eager"
+              draggable="false"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="about">
+        <div class="container">
+          <div class="section-title">
+            <span>About Me</span>
+            <h2>Turning Data Into Insights</h2>
+            <p>
+              Computer Science student with a strong interest in Data Analytics,
+              Business Intelligence, and data visualization. I enjoy solving
+              real-world problems using data-driven solutions.
+            </p>
+          </div>
+          <div class="about-content">
+            <div class="about-image">
+              <img
+                src="assets/images/profile.png"
+                alt="Alok Kumar"
+                loading="lazy"
+                draggable="false"
+              />
+            </div>
+            <div class="about-info">
+              <h3>Who I Am</h3>
+              <p>
+                I'm pursuing a B.Tech in Computer Science & Engineering at IIIT
+                Kottayam. During my ApexPlanet Data Analytics Internship, I
+                worked on data cleaning, exploratory analysis, SQL, Tableau
+                dashboards, customer segmentation, and statistical validation.
+              </p>
+              <p>
+                My goal is to build analytical solutions that transform raw data
+                into meaningful insights and support smarter business decisions.
+              </p>
+              <div class="about-grid">
+                <article class="about-card">
+                  <h4>Education</h4>
+                  <p>B.Tech CSE</p>
+                  <span>IIIT Kottayam</span>
+                </article>
+                <article class="about-card">
+                  <h4>Experience</h4>
+                  <p>Data Analytics Intern</p>
+                  <span>ApexPlanet</span>
+                </article>
+                <article class="about-card">
+                  <h4>Projects</h4>
+                  <p>5+</p>
+                  <span>Analytics Projects</span>
+                </article>
+                <article class="about-card">
+                  <h4>Core Skills</h4>
+                  <p>Python • SQL</p>
+                  <span>Tableau • Excel</span>
+                </article>
+              </div>
+              <div class="about-buttons">
+                <a href="#projects" class="btn btn-primary">View Projects</a>
+                <a
+                  href="assets/pdf/resume.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn-outline"
+                  >Download Resume</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="stats" id="stats" aria-labelledby="stats-title">
+        <div class="container">
+          <div class="section-title">
+            <span>Highlights</span>
+            <h2 id="stats-title">Portfolio at a Glance</h2>
+          </div>
+          <div class="stats-grid">
+            <article class="stats-card">
+              <i class="fa-solid fa-diagram-project" aria-hidden="true"></i>
+              <h3 class="counter" data-target="5">0</h3>
+              <p>Projects</p>
+            </article>
+            <article class="stats-card">
+              <i class="fa-solid fa-chart-column" aria-hidden="true"></i>
+              <h3 class="counter" data-target="3">0</h3>
+              <p>Dashboards</p>
+            </article>
+            <article class="stats-card">
+              <i class="fa-solid fa-database" aria-hidden="true"></i>
+              <h3 class="counter" data-target="1000">0</h3>
+              <p>Records Analyzed</p>
+            </article>
+            <article class="stats-card">
+              <i class="fa-solid fa-laptop-code" aria-hidden="true"></i>
+              <h3 class="counter" data-target="15">0</h3>
+              <p>Tech Stack</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="skills" class="skills" aria-labelledby="skills-title">
+        <div class="container">
+          <div class="section-title">
+            <span>Skills</span>
+            <h2 id="skills-title">Technical Skills</h2>
+            <p>
+              Technologies and tools I use to analyze data, create dashboards,
+              and deliver data-driven business insights.
+            </p>
+          </div>
+          <div class="skills-grid">
+            <article class="skill-card">
+              <div class="skill-icon">
+                <i class="fa-brands fa-python" aria-hidden="true"></i>
+              </div>
+              <h3>Python</h3>
+              <p>Data Analysis & Automation</p>
+            </article>
+            <article class="skill-card">
+              <div class="skill-icon">
+                <i class="fa-solid fa-database" aria-hidden="true"></i>
+              </div>
+              <h3>SQL</h3>
+              <p>Database Querying & Analysis</p>
+            </article>
+            <article class="skill-card">
+              <div class="skill-icon">
+                <i class="fa-solid fa-chart-column" aria-hidden="true"></i>
+              </div>
+              <h3>Excel</h3>
+              <p>Data Analysis & Reporting</p>
+            </article>
+            <article class="skill-card">
+              <div class="skill-icon">
+                <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
+              </div>
+              <h3>Tableau</h3>
+              <p>Interactive Dashboards</p>
+            </article>
+            <article class="skill-card">
+              <div class="skill-icon">
+                <i class="fa-solid fa-table" aria-hidden="true"></i>
+              </div>
+              <h3>Pandas</h3>
+              <p>Data Cleaning & Transformation</p>
+            </article>
+            <article class="skill-card">
+              <div class="skill-icon">
+                <i
+                  class="fa-solid fa-square-root-variable"
+                  aria-hidden="true"
+                ></i>
+              </div>
+              <h3>NumPy</h3>
+              <p>Numerical Computing</p>
+            </article>
+            <article class="skill-card">
+              <div class="skill-icon">
+                <i class="fa-solid fa-flask" aria-hidden="true"></i>
+              </div>
+              <h3>SciPy</h3>
+              <p>Statistical Analysis</p>
+            </article>
+            <article class="skill-card">
+              <div class="skill-icon">
+                <i class="fa-brands fa-github" aria-hidden="true"></i>
+              </div>
+              <h3>Git & GitHub</h3>
+              <p>Version Control</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="timeline" class="journey" aria-labelledby="journey-title">
+        <div class="container">
+          <div class="section-title">
+            <span>Journey</span>
+            <h2 id="journey-title">Internship Timeline</h2>
+            <p>
+              A summary of my ApexPlanet Data Analytics Internship, highlighting
+              the skills, tools, and practical experience gained through each
+              project.
+            </p>
+          </div>
+          <div class="timeline">
+            <article class="timeline-item">
+              <div class="timeline-dot">
+                <i class="fa-solid fa-broom" aria-hidden="true"></i>
+              </div>
+              <div class="timeline-card">
+                <span class="timeline-badge">Task 1</span>
+                <h3>Data Cleaning & Preparation</h3>
+                <p>
+                  Cleaned datasets, handled missing values, removed duplicates,
+                  and prepared structured data for analysis.
+                </p>
+                <div class="timeline-tags">
+                  <span>Python</span><span>Pandas</span><span>Excel</span>
+                </div>
+              </div>
+            </article>
+            <article class="timeline-item">
+              <div class="timeline-dot">
+                <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
+              </div>
+              <div class="timeline-card">
+                <span class="timeline-badge">Task 2</span>
+                <h3>Exploratory Data Analysis</h3>
+                <p>
+                  Explored datasets using Python and SQL while creating
+                  meaningful visualizations and interactive dashboards.
+                </p>
+                <div class="timeline-tags">
+                  <span>Python</span><span>SQL</span><span>Tableau</span>
+                </div>
+              </div>
+            </article>
+            <article class="timeline-item">
+              <div class="timeline-dot">
+                <i class="fa-solid fa-users" aria-hidden="true"></i>
+              </div>
+              <div class="timeline-card">
+                <span class="timeline-badge">Task 3</span>
+                <h3>Customer Segmentation</h3>
+                <p>
+                  Built customer segments and KPI dashboards to support
+                  data-driven business decisions.
+                </p>
+                <div class="timeline-tags">
+                  <span>Python</span><span>Pandas</span><span>Tableau</span>
+                </div>
+              </div>
+            </article>
+            <article class="timeline-item">
+              <div class="timeline-dot">
+                <i class="fa-solid fa-chart-column" aria-hidden="true"></i>
+              </div>
+              <div class="timeline-card">
+                <span class="timeline-badge">Task 4</span>
+                <h3>Business Storytelling</h3>
+                <p>
+                  Applied hypothesis testing and transformed analytical findings
+                  into actionable business recommendations.
+                </p>
+                <div class="timeline-tags">
+                  <span>SciPy</span><span>Statistics</span
+                  ><span>PowerPoint</span>
+                </div>
+              </div>
+            </article>
+            <article class="timeline-item">
+              <div class="timeline-dot">
+                <i class="fa-solid fa-globe" aria-hidden="true"></i>
+              </div>
+              <div class="timeline-card">
+                <span class="timeline-badge">Task 5</span>
+                <h3>Portfolio Website</h3>
+                <p>
+                  Designed and developed a responsive portfolio website to
+                  showcase projects, dashboards, and technical skills.
+                </p>
+                <div class="timeline-tags">
+                  <span>HTML</span><span>CSS</span><span>JavaScript</span>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="projects" class="projects" aria-labelledby="projects-title">
+        <div class="container">
+          <div class="section-title">
+            <span>Projects</span>
+            <h2 id="projects-title">Featured Data Analytics Projects</h2>
+            <p>
+              A selection of internship projects demonstrating practical
+              experience in data cleaning, exploratory analysis, visualization,
+              business intelligence, and statistical analysis.
+            </p>
+          </div>
+          <div class="projects-grid">
+            <article class="project-card">
+              <div class="project-image">
+                <img
+                  src="assets/images/task1.png"
+                  alt="Data Cleaning and Preparation Project"
+                  loading="lazy"
+                  draggable="false"
+                />
+              </div>
+              <div class="project-content">
+                <span class="project-badge">Task 1</span>
+                <h3>Data Cleaning & Preparation</h3>
+                <p>
+                  Cleaned and transformed raw sales data by handling missing
+                  values, removing duplicates, validating records, and
+                  performing feature engineering.
+                </p>
+                <div class="project-tags">
+                  <span>Python</span><span>Pandas</span><span>Excel</span>
+                </div>
+                <a
+                  href="https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1"
+                  class="btn btn-primary"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="View Task 1 on GitHub"
+                  ><i class="fa-brands fa-github" aria-hidden="true"></i> View
+                  on GitHub</a
+                >
+              </div>
+            </article>
+            <article class="project-card">
+              <div class="project-image">
+                <img
+                  src="assets/images/task2.png"
+                  alt="Exploratory Data Analysis Project"
+                  loading="lazy"
+                  draggable="false"
+                />
+              </div>
+              <div class="project-content">
+                <span class="project-badge">Task 2</span>
+                <h3>Exploratory Data Analysis</h3>
+                <p>
+                  Explored datasets using Python and SQL while building
+                  interactive Tableau dashboards for business insights.
+                </p>
+                <div class="project-tags">
+                  <span>Python</span><span>SQL</span><span>Tableau</span>
+                </div>
+                <a
+                  href="https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task2"
+                  class="btn btn-primary"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="View Task 2 on GitHub"
+                  ><i class="fa-brands fa-github" aria-hidden="true"></i> View
+                  on GitHub</a
+                >
+              </div>
+            </article>
+            <article class="project-card">
+              <div class="project-image">
+                <img
+                  src="assets/images/task3.png"
+                  alt="Customer Segmentation Project"
+                  loading="lazy"
+                  draggable="false"
+                />
+              </div>
+              <div class="project-content">
+                <span class="project-badge">Task 3</span>
+                <h3>Customer Segmentation</h3>
+                <p>
+                  Developed customer segmentation models and KPI dashboards to
+                  support data-driven business decisions.
+                </p>
+                <div class="project-tags">
+                  <span>Python</span><span>Pandas</span><span>Tableau</span>
+                </div>
+                <a
+                  href="https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task3"
+                  class="btn btn-primary"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="View Task 3 on GitHub"
+                  ><i class="fa-brands fa-github" aria-hidden="true"></i> View
+                  on GitHub</a
+                >
+              </div>
+            </article>
+            <article class="project-card">
+              <div class="project-image">
+                <img
+                  src="assets/images/task4.png"
+                  alt="Business Storytelling Project"
+                  loading="lazy"
+                  draggable="false"
+                />
+              </div>
+              <div class="project-content">
+                <span class="project-badge">Task 4</span>
+                <h3>Business Storytelling</h3>
+                <p>
+                  Applied hypothesis testing and transformed analytical findings
+                  into actionable business recommendations through data
+                  storytelling.
+                </p>
+                <div class="project-tags">
+                  <span>SciPy</span><span>Statistics</span
+                  ><span>PowerPoint</span>
+                </div>
+                <a
+                  href="https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task4"
+                  class="btn btn-primary"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="View Task 4 on GitHub"
+                  ><i class="fa-brands fa-github" aria-hidden="true"></i> View
+                  on GitHub</a
+                >
+              </div>
+            </article>
+            <article class="project-card">
+              <div class="project-image">
+                <img
+                  src="assets/images/task5.png"
+                  alt="Interactive Dashboard Website"
+                />
+              </div>
+              <div class="project-content">
+                <span class="project-badge">Task 5</span>
+                <h3>Interactive Dashboard Website</h3>
+                <p>
+                  Designed and developed a responsive analytics portfolio
+                  website with dashboards, smooth animations and modern UI.
+                </p>
+                <div class="project-tags">
+                  <span>HTML</span><span>CSS</span><span>JavaScript</span>
+                </div>
+                <a href="task5.html" class="btn btn-primary"
+                  >View Project <i class="fa-solid fa-arrow-right"></i
+                ></a>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="tableau" class="tableau" aria-labelledby="tableau-title">
+        <div class="container">
+          <div class="section-title">
+            <span>Data Visualization</span>
+            <h2 id="tableau-title">Interactive Tableau Dashboards</h2>
+            <p>
+              Interactive dashboards designed in Tableau to transform raw data
+              into meaningful business insights and support data-driven
+              decisions.
+            </p>
+          </div>
+          <div class="dashboard-preview">
+            <img
+              src="assets/images/tableau-dashboard.png"
+              alt="Interactive Tableau Dashboard"
+              loading="lazy"
+              draggable="false"
+            />
+          </div>
+          <div class="dashboard-grid">
+            <article class="dashboard-card">
+              <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
+              <h3>Sales Analysis</h3>
+              <p>
+                Visualized revenue trends, sales performance, and business
+                growth.
+              </p>
+            </article>
+            <article class="dashboard-card">
+              <i class="fa-solid fa-users" aria-hidden="true"></i>
+              <h3>Customer Insights</h3>
+              <p>
+                Analyzed customer behavior, segmentation, and purchasing
+                patterns.
+              </p>
+            </article>
+            <article class="dashboard-card">
+              <i class="fa-solid fa-chart-pie" aria-hidden="true"></i>
+              <h3>Business KPIs</h3>
+              <p>
+                Tracked key performance indicators using interactive dashboards.
+              </p>
+            </article>
+          </div>
+          <div class="tableau-btn">
+            <a
+              href="https://public.tableau.com/app/profile/alok.kumar3178"
+              class="btn btn-primary"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="View Tableau Public Profile"
+              ><i class="fa-solid fa-chart-column" aria-hidden="true"></i> View
+              Tableau Public</a
+            >
+          </div>
+        </div>
+      </section>
+
+      <section
+        id="achievements"
+        class="achievements"
+        aria-labelledby="achievements-title"
+      >
+        <div class="container">
+          <div class="section-title">
+            <span>Achievements</span>
+            <h2 id="achievements-title">Certificates & Achievements</h2>
+            <p>
+              Certifications and accomplishments that demonstrate my practical
+              experience and continuous learning in Data Analytics.
+            </p>
+          </div>
+          <div class="achievement-grid">
+            <article class="achievement-card">
+              <div class="achievement-icon">
+                <i class="fa-solid fa-award" aria-hidden="true"></i>
+              </div>
+              <h3>Data Analytics Internship</h3>
+              <p>
+                Successfully completed the ApexPlanet Data Analytics Internship
+                by delivering real-world analytics projects.
+              </p>
+            </article>
+            <article class="achievement-card">
+              <div class="achievement-icon">
+                <i class="fa-solid fa-chart-column" aria-hidden="true"></i>
+              </div>
+              <h3>Tableau Dashboards</h3>
+              <p>
+                Developed interactive dashboards to visualize business
+                performance and customer insights.
+              </p>
+            </article>
+            <article class="achievement-card">
+              <div class="achievement-icon">
+                <i class="fa-brands fa-python" aria-hidden="true"></i>
+              </div>
+              <h3>Python Data Analysis</h3>
+              <p>
+                Applied Pandas, NumPy, and SciPy to clean, analyze, and
+                interpret business datasets.
+              </p>
+            </article>
+            <article class="achievement-card">
+              <div class="achievement-icon">
+                <i class="fa-solid fa-certificate" aria-hidden="true"></i>
+              </div>
+              <h3>Business Storytelling</h3>
+              <p>
+                Communicated analytical findings through data storytelling,
+                visualization, and statistical validation.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="contact" aria-labelledby="contact-title">
+        <div class="container">
+          <div class="section-title">
+            <span>Contact</span>
+            <h2 id="contact-title">Let's Connect</h2>
+            <p>
+              I'm open to internships, freelance opportunities, collaborations,
+              and discussions related to Data Analytics, Business Intelligence,
+              and Software Development.
+            </p>
+          </div>
+          <div class="contact-grid">
+            <article class="contact-card">
+              <div class="contact-icon">
+                <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+              </div>
+              <h3>Email</h3>
+              <p>Available for internships and collaborations.</p>
+              <a
+                href="mailto:alok.kumar.official.ak@gmail.com"
+                class="btn-contact"
+                aria-label="Send Email to Alok Kumar"
+                >Send Email</a
+              >
+            </article>
+            <article class="contact-card">
+              <div class="contact-icon">
+                <i class="fa-brands fa-linkedin-in" aria-hidden="true"></i>
+              </div>
+              <h3>LinkedIn</h3>
+              <p>Let's connect professionally.</p>
+              <a
+                href="https://www.linkedin.com/in/alok-kumar-b19a2835b/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Visit LinkedIn Profile"
+                >Visit Profile</a
+              >
+            </article>
+            <article class="contact-card">
+              <div class="contact-icon">
+                <i class="fa-brands fa-github" aria-hidden="true"></i>
+              </div>
+              <h3>GitHub</h3>
+              <p>Explore my projects and source code.</p>
+              <a
+                href="https://github.com/alokkumar-dotcom"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Visit GitHub Profile"
+                >View Repository</a
+              >
+            </article>
+            <article class="contact-card">
+              <div class="contact-icon">
+                <i class="fa-solid fa-chart-column" aria-hidden="true"></i>
+              </div>
+              <h3>Tableau Public</h3>
+              <p>Browse interactive dashboards and visualizations.</p>
+              <a
+                href="https://public.tableau.com/app/profile/alok.kumar3178"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Visit Tableau Public Profile"
+                >View Dashboards</a
+              >
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-brand">
+            <a href="#home" class="logo" aria-label="Back to Home"
+              ><span>AK</span></a
+            >
+            <h3>Alok Kumar</h3>
+            <p>
+              Aspiring Data Analyst passionate about transforming raw data into
+              meaningful business insights through analytics and visualization.
+            </p>
+          </div>
+          <div class="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><a href="#home">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#skills">Skills</a></li>
+              <li><a href="#timeline">Journey</a></li>
+              <li><a href="#projects">Projects</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div>
+          <div class="footer-links">
+            <h4>Resources</h4>
+            <ul>
+              <li>
+                <a
+                  href="assets/pdf/resume.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Resume</a
+                >
+              </li>
+              <li>
+                <a
+                  href="assets/pdf/final_presentation.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Presentation</a
+                >
+              </li>
+              <li><a href="#achievements">Certificates</a></li>
+              <li>
+                <a
+                  href="https://public.tableau.com/app/profile/alok.kumar3178"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Tableau Public</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="footer-social">
+            <h4>Follow Me</h4>
+            <div class="social-icons">
+              <a
+                href="https://github.com/alokkumar-dotcom"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="GitHub"
+                ><i class="fa-brands fa-github" aria-hidden="true"></i
+              ></a>
+              <a
+                href="https://www.linkedin.com/in/alok-kumar-b19a2835b/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="LinkedIn"
+                ><i class="fa-brands fa-linkedin" aria-hidden="true"></i
+              ></a>
+              <a
+                href="https://public.tableau.com/app/profile/alok.kumar3178"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Tableau Public"
+                ><i class="fa-solid fa-chart-column" aria-hidden="true"></i
+              ></a>
+              <a
+                href="mailto:alok.kumar.official.ak@gmail.com"
+                aria-label="Send Email"
+                ><i class="fa-solid fa-envelope" aria-hidden="true"></i
+              ></a>
+            </div>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <p>&copy; <span id="year"></span> Alok Kumar. All Rights Reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <button id="topBtn" aria-label="Back to Top">
+      <i class="fa-solid fa-arrow-up" aria-hidden="true"></i>
+    </button>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
