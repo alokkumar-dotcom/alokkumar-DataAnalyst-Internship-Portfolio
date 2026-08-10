@@ -1,27 +1,44 @@
 :root {
-  --clr-primary: #388087;
-  --clr-primary-dark: #2c686e;
-  --clr-secondary: #6fb3b8;
-  --clr-accent: #badfe7;
-  --clr-highlight: #c2edce;
+  /* Brand Colors */
+  --clr-primary: #7B3FE4;
+  --clr-primary-dark: #6530C7;
+  --clr-secondary: #A77BE8;
+  --clr-accent: #E7DFF0;
+  --clr-highlight: #E7DBE4;
 
-  --clr-bg: #f8fafc;
-  --clr-section: #ffffff;
-  --clr-white: #ffffff;
-  --clr-heading: #1f2937;
-  --clr-text: #4b5563;
-  --clr-border: #e5e7eb;
+  /* Background & Surface */
+  --clr-bg: #EAE6F8;
+  --clr-section: #FEFEFE;
+  --clr-white: #FFFFFF;
 
+  /* Text */
+  --clr-heading: #1F241F;
+  --clr-text: #64646A;
+  --clr-border: rgba(100, 70, 130, 0.12);
+
+  /* Typography */
   --ff-primary: "Poppins", sans-serif;
 
-  --shadow-sm: 0 8px 25px rgba(15, 23, 42, .08);
-  --shadow-md: 0 18px 45px rgba(15, 23, 42, .12);
+  /* Shadows */
+  --shadow-sm: 0 8px 25px rgba(80, 50, 100, 0.08);
+  --shadow-md: 0 18px 45px rgba(80, 50, 100, 0.12);
 
+  /* Border Radius */
   --radius-sm: 14px;
   --radius-md: 18px;
   --radius-lg: 24px;
   --radius-full: 999px;
+
+  /* Animation */
   --transition: .35s ease;
+
+  /* AQI Colors */
+  --clr-good: #36A86B;
+  --clr-satisfactory: #8BCB3F;
+  --clr-moderate: #E9C84A;
+  --clr-poor: #F2994A;
+  --clr-very-poor: #D94C55;
+  --clr-severe: #8F263A;
 }
 
 *,
@@ -39,7 +56,10 @@ html {
 
 body {
   font-family: var(--ff-primary);
-  background: var(--clr-bg);
+  background:
+  radial-gradient(circle at 15% 20%, #EAE6F8 0%, transparent 45%),
+  radial-gradient(circle at 85% 30%, #E7DBE4 0%, transparent 45%),
+  linear-gradient(135deg, #EAE6F8, #F3EAF2);
   color: var(--clr-text);
   line-height: 1.8;
   overflow-x: hidden;
