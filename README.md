@@ -1,6 +1,6 @@
 # 📊 ApexPlanet Data Analytics Internship – Task 5
 
-## Data Analytics Portfolio Website
+## Capstone Integration & Portfolio Finalization
 
 ---
 
@@ -8,7 +8,9 @@
 
 This project was completed as part of the **ApexPlanet Data Analytics Internship**.
 
-The objective of **Task 5** was to create a professional portfolio website to present the complete internship journey and showcase the projects, analytical work, dashboards, presentation materials, resume, and professional profiles developed throughout the internship.
+The objective of **Task 5** was to consolidate the work completed throughout the internship into a professional master portfolio demonstrating the complete end-to-end data analytics journey.
+
+As part of the capstone integration, a professional portfolio website was also created and deployed using GitHub Pages to provide a visual presentation of the internship work.
 
 The portfolio brings together the complete data analytics workflow, from **data cleaning and exploratory analysis to SQL analysis, customer segmentation, statistical validation, data storytelling, and final project presentation**.
 
@@ -16,16 +18,18 @@ The portfolio brings together the complete data analytics workflow, from **data 
 
 # 🎯 Objectives
 
-- Create a professional Data Analytics portfolio website
-- Showcase all internship tasks in a structured format
-- Present project screenshots and analytical work
+- Create a professional master GitHub portfolio
+- Consolidate all internship projects into one central repository
+- Provide links to the Task 1–4 project repositories
+- Present the complete internship journey
+- Showcase project screenshots and analytical work
 - Provide access to Tableau dashboards
 - Provide access to the final internship presentation
 - Provide access to the resume
-- Add GitHub and LinkedIn professional profiles
-- Create a responsive and user-friendly website
+- Include professional GitHub and LinkedIn profiles
+- Create a responsive portfolio website
 - Deploy the portfolio using GitHub Pages
-
+- Summarize the technical skills and key learnings developed during the internship
 ---
 
 # 📁 Project Structure
@@ -207,28 +211,31 @@ Integrated the analytical findings into a business-focused story and statistical
 
 ---
 
-## 📌 Task 5 — Data Analytics Portfolio Website
+## 📌 Task 5 — Capstone Integration & Portfolio Finalization
 
-Created a professional web-based portfolio to present the complete internship journey and showcase the projects completed during the internship.
+Consolidated the complete internship work into a professional master portfolio and created a visual portfolio website to present the internship journey.
 
 ### Work Completed
 
-- Designed a responsive portfolio website
-- Created a professional homepage
-- Added internship project sections
+- Created a master GitHub portfolio
+- Organized all internship projects in one central repository
+- Added links to previous task repositories
+- Created a professional README
 - Added project screenshots
 - Added Tableau dashboard showcase
-- Added resume section
-- Added final presentation access
-- Added professional profile links
+- Added final internship presentation
+- Added resume
+- Added GitHub and LinkedIn profiles
+- Created a responsive portfolio website
 - Implemented interactive navigation
 - Added smooth scrolling and animations
 - Added image gallery functionality
-- Deployed the website using GitHub Pages
+- Deployed the portfolio using GitHub Pages
+- Prepared the portfolio for professional presentation
 
 ### Technologies
 
-`HTML5` `CSS3` `JavaScript` `Git` `GitHub` `GitHub Pages`
+`HTML5` `CSS3` `JavaScript` `Python` `Pandas` `SQL` `MySQL` `Tableau Public` `SciPy` `Git` `GitHub` `GitHub Pages`
 
 ### Live Website
 
@@ -307,17 +314,19 @@ The portfolio also includes my current resume.
 
 After completing Task 5:
 
-- Created a professional Data Analytics portfolio website.
-- Presented all major internship projects in one place.
-- Organized project screenshots and supporting resources.
-- Integrated Tableau Public resources.
-- Added access to the final internship presentation.
-- Added access to the resume.
-- Added GitHub and LinkedIn professional profiles.
-- Developed a responsive web interface.
-- Implemented interactive website elements.
-- Deployed the portfolio using GitHub Pages.
-- Created a centralized platform for presenting the complete internship journey.
+- Created a professional master portfolio repository
+- Consolidated the complete internship journey
+- Organized links to all previous internship projects
+- Created a structured and professional README
+- Presented project screenshots and supporting resources
+- Integrated Tableau Public resources
+- Added access to the final internship presentation
+- Added access to the resume
+- Added professional GitHub and LinkedIn profiles
+- Created a responsive portfolio website
+- Implemented interactive website elements
+- Deployed the portfolio using GitHub Pages
+- Created a centralized platform for presenting the complete internship work
 
 ---
 
@@ -357,7 +366,7 @@ The portfolio can be further extended with:
 
 # ⭐ Thank You
 
-Thank you for visiting my **ApexPlanet Data Analytics Internship – Task 5 Portfolio**.
+Thank you for visiting my **ApexPlanet Data Analytics Internship – Task 5: Capstone Integration & Portfolio Finalization**.
 
 This project represents the final presentation layer of my internship journey, bringing together my work across:
 
